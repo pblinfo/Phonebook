@@ -1,22 +1,9 @@
-# phonebook
-
-> A desktop application for storing contact list.
-
-#### Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:9080
-npm run dev
-
-# build electron application for production
-npm run build
-
-
-```
-
----
-
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+# Features 
+ - A desktop application for storing contact list.
+ - App is awesome!
+ - App will be work offline/online.
+ - Every user can access contact list, Sign Up user can create new contact.
+ - Authorized/Sign In user can access all contact list from cloud system (which are already created/updated by other user).
+# Download
+# Release
+- [Windows version 64 bit](https://github.com/pblinfo/Phonebook/releases/latest)
